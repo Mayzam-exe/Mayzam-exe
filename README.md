@@ -75,6 +75,28 @@ arsenal:
 
 <br/>
 
+## ⛏️ Currently Digging Into
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cpp,rust,go" />
+</div>
+
+```yaml
+currently_learning:
+  - lang: C++
+    why: systems programming, low-level control, performance-critical code
+  - lang: Assembly
+    why: reverse engineering, exploit dev, understanding what the compiler actually does
+  - lang: Rust
+    why: memory-safe systems + security tooling
+  - lang: Go
+    why: concurrency, fast CLI tools, backend services
+
+status: "🚧 in progress — expect broken builds and questionable pointer arithmetic"
+```
+
+<br/>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
